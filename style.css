@@ -1,0 +1,93 @@
+        /* Fonts */
+        
+        @font-face {
+            font-family: DIGITALDREAM;
+            src: url(DIGITALDREAM.ttf);
+        }
+        
+        body {
+            color: white;
+            background: black;
+        }
+        
+        #clock-container {
+            height: 100vh;
+            padding-top: 3vh;
+            /* background-color: grey; */
+        }
+        
+        .clock-row-big {}
+        
+        .clock-row-med {}
+        
+        .clock-row-small {}
+        
+        .big-clock {}
+        
+        .small-clock {}
+        
+        .clock-name {
+            text-align: center;
+        }
+        
+        .clock-time {
+            text-align: center;
+            font-family: DIGITALDREAM;
+            color: red;
+        }
+        
+        .clock-date {
+            text-align: center;
+        }
+        
+        .clock-name-big {
+            font-size: 3vw;
+        }
+        
+        .clock-time-big {
+            font-size: 6vw;
+        }
+        
+        .clock-date-big {
+            font-size: 2vw;
+        }
+        
+        .clock-name-med {
+            font-size: 2vw;
+        }
+        
+        .clock-time-med {
+            font-size: 4vw;
+        }
+        
+        .clock-date-med {
+            font-size: 1.5vw;
+        }
+        
+        .clock-name-small {
+            font-size: 2vw;
+        }
+        
+        .clock-time-small {
+            font-size: 4vw;
+        }
+        
+        .clock-date-small {
+            font-size: 1.5vw;
+        }
+        
+        #clock-time-1 {
+            /* color: blue; */
+        }
+        
+        a:visited,
+        .nav-item {
+            text-decoration: none;
+            color: white;
+        }
+        
+        a,
+        .nav-item {
+            text-decoration: none;
+            color: white;
+        }
